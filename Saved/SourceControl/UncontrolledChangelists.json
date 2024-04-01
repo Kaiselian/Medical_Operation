@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Level/1-1.umap",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Hall_Plane_009.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Hall_Plane_010.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Hall_Plane_007.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Hall_Gate-1.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Hall_Gate-2.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Material_003.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Hall_Plane_002.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Material_001.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Hall_Plane_001.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Material_002.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Hall_Plane.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Translucent_Glass_001.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Glass_001.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Steel_001.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Metal_Membrane_001.uasset",
+				"C:/Users/Aniket/Documents/Unreal Projects/Medical_Operation/Content/1_Content/Hall_Wallls.uasset"
+			]
+		}
+	]
+}
